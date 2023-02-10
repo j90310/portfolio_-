@@ -1,1 +1,1 @@
-<image src="/이태엽_포트폴리오_kor.pdf">
+![포트폴리오](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/j90310/portfolio_korean/master/%EC%9D%B4%ED%83%9C%EC%97%BD_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_kor.pdf)
