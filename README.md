@@ -1,7 +1,2 @@
-<dl>
-  <dt>아이템 1 제목</dt>
-  <dd>아이템 1 내용 입니다.</dd>
-
-  <dt>아이템 2 제목</dt>
-  <dd>아이템 2 내용 입니다.</dd>
-</dl>
+<object data="/이태엽_포트폴리오_kor.pdf" type="application/pdf">
+</object>
